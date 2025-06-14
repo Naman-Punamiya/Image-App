@@ -1,16 +1,3 @@
-# imageapp
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This Flutter project demonstrate the image asset and network image widget with few extra properties such as border and shadow.
+![AppImage](https://github.com/user-attachments/assets/7d3624cb-c82f-4de6-8e8e-338ca7772456)
+b9408060e)
